@@ -1,0 +1,2 @@
+# ngrokk
+instalacion ngrok kali
